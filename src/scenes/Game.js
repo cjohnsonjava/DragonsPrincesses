@@ -1,8 +1,8 @@
 import Phaser from "phaser";
 import mp3 from "../assets/Orbital\ Colossus.mp3";
-import background from "../assets/scifi_platform_BG1.jpg";
+import background from "../assets/FairyTales.png";
 import tiles from "../assets/scifi_platformTiles_32x32.png";
-import star from "../assets/star.png"
+import star from "../assets/star.png";
 import { accelerate, decelerate } from "../utils";
 
 let box;
