@@ -1,4 +1,4 @@
-# Mintbean's PhaserJS Template
+# Mintbean's GameHack - Dragons & Princesses
 
 ## Getting Started
 
